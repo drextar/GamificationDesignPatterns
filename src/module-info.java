@@ -1,0 +1,3 @@
+module GamificationPadroes {
+	requires junit;
+}
